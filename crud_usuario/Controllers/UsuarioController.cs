@@ -109,3 +109,8 @@ namespace crud_usuario.Controllers
 
 }
 }
+
+//https://codeshare.io/ez0YbL
+//https://docs.google.com/forms/d/1NOyzZrTEl2SCCoDZxQppQF2wVLnlu-eukdnlLFFKLm4/edit?pli=1
+
+//https://spectacled-falcon-84a.notion.site/Criar-projeto-angular-51595eb218034c748b1e8ac2a9847f06
